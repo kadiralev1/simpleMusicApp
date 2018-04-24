@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Xylophone/ VIewController.swift"
+            timestampString = "546257764.3650039"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.audioPlayer.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.AVAudioPlayer&gt;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirkutluhanalev/Downloads/Xylophone-iOS11-master/Xylophone/%20VIewController.swift"
+                  timestampString = "546257777.0636671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.audioPlayer.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.AVAudioPlayer&gt;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirkutluhanalev/Downloads/Xylophone-iOS11-master/Xylophone/%20VIewController.swift"
+                  timestampString = "546257777.077132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Xylophone.ViewController"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirkutluhanalev/Downloads/Xylophone-iOS11-master/Xylophone/%20VIewController.swift"
+                  timestampString = "546257777.081926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Xylophone.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Xylophone.ViewController&gt;"
+                  moduleName = "Xylophone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kadirkutluhanalev/Downloads/Xylophone-iOS11-master/Xylophone/%20VIewController.swift"
+                  timestampString = "546257777.087207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
